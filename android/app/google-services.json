@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "93832734285",
+    "project_id": "motorbike-1b8d1",
+    "storage_bucket": "motorbike-1b8d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93832734285:android:ef2071fa6be56e6c72de04",
+        "android_client_info": {
+          "package_name": "com.example.clientes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93832734285-sce0ovfd6vnfnvq570tdrcc1m72g8u3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdFDb7FCj-bJ42-FpWvdd3HYoi21EspW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93832734285-sce0ovfd6vnfnvq570tdrcc1m72g8u3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93832734285:android:57afc9a77040eec572de04",
+        "android_client_info": {
+          "package_name": "com.example.motorbike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93832734285-sce0ovfd6vnfnvq570tdrcc1m72g8u3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdFDb7FCj-bJ42-FpWvdd3HYoi21EspW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93832734285-sce0ovfd6vnfnvq570tdrcc1m72g8u3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
